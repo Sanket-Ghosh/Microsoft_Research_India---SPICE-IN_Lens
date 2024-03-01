@@ -26,7 +26,7 @@ pdf_link = driver.find_element(By.XPATH, '//a[contains(@href, ".pdf")]').get_att
 
 
 # Downloading The PDF file
-save_path = 'latest.pdf'
+# save_path = 'latest.pdf'
 
 
 time.sleep(5)
